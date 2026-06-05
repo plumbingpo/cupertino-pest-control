@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cupertinopestcontrolco.com/sitemap.xml
